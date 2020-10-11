@@ -10,12 +10,12 @@
 
 [[main]]
   name = "Publications"
-  url = "#featured"
+  url = "#publications"
   weight = 30
 
 [[main]]
   name = "Ongoing Work"
-  url = "#featured"
+  url = "#publications_wip"
   weight = 40
 
 [[main]]
