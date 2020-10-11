@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jonas Markgraf
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Senior Economist
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Zalando SE
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I work on topics of Experimentation and Causal Inference. My academic research covers topics in the areas of Comparative Politics, Political Economy, and Political Methodology and has been published in journals, such as the  *Journal of Politics* and *Political Science Research & Methods*.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Comparative Politics
+- Political Economy
+- Political Methodology
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Political Science
+    institution: Hertie School Berlin
+    year: 2018
+  - course: MSc in International Political Economy
+    institution: London School of Economics
+    year: 2014
+  - course: BA in Political Science & Economics
+    institution: Freie Universität Berlin
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,18 +47,21 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+  link: https://twitter.com/JonasMarkgraf
+- icon: linkedin
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://de.linkedin.com/in/jmarkgraf
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.com/citations?user=v0pUZMwAAAAJ&hl=en
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -73,6 +76,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Senior Economist at Zalando and work on topics of Experimentation and Causal Inference. Before I was a Postdoctoral Research Fellow in the WEALTHPOL Project at the University of Oxford and Fellow at Nuffield College. In 2018, I successfully defended my PhD dissertation at the Hertie School in Berlin and was a PreDoc at the Department of Political Science at Washington University in St. Louis (2017).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My academic research covers topics in the areas of Comparative Politics, Political Economy, and Political Methodology. It has been published in journals, including the  *Journal of Politics* and *Political Science Research & Methods*.

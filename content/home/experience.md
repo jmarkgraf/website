@@ -18,27 +18,71 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Senior Economist"
+  company = "Zalando SE"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Berlin/Germany"
+  date_start = "2020-04-15"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Measuring impact of algorithmic changes
+  * Researching SUTVA violations in ecommerce experiments
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Economist"
+  company = "Federal Ministry of Finance"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Berlin/Germany"
+  date_start = "2019-09-20"
+  date_end = "2020-03-15"
+  description = """Worked on regulations against international money laundering and financing of terrorism (Financial Action Task Force)."""
+  
+[[experience]]
+  title = "Postdoctoral Researcher"
+  company = "University of Oxford"
+  company_url = ""
+  location = "Oxford/UK"
+  date_start = "2018-09-01"
+  date_end = "2019-09-03"
+  description = """
+  Responsibilities included:
+  
+  *  designing and implementing lab and survey experiments, quantitative data and text  analysis
+  * writing  scientific  papers  and  policy  briefs  
+  * communicating  results  to  diverseaudiences 
+  * support supervision of PhD students"""
 
+[[experience]]
+  title = "Research Associate"
+  company = "Hertie School"
+  company_url = ""
+  location = "Berlin/Germany"
+  date_start = "2015-09-01"
+  date_end = "2018-08-31"
+  description = """
+  Responsibilities included:  
+  
+  * conceptualization of research project
+  * presentation of findings
+  * data collection
+  """
+
+[[experience]]
+  title = "Carlo Schmid Fellow & Consultant"
+  company = "International Trade Centre (UN/WTO)"
+  company_url = ""
+  location = "Geneva/Switzerland"
+  date_start = "2014-09-01"
+  date_end = "2015-09-30"
+  description = """
+  Responsibilities included:
+  
+  * coordination of survey launch
+  * implementation of survey
+  * organizationand conducting of multi-day training workshops
+  * survey design"""
+  
 +++
