@@ -27,8 +27,10 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Measuring impact of algorithmic changes
-  * Researching SUTVA violations in ecommerce experiments
+  * Measuring impact of changes to the pricing algorithm
+  * Improving demand elasticity estimates
+  * Enabling to steer investment decisions to create deep customer relationships
+  * Leading a team of three on interim basis (6 months)
   """
 
 [[experience]]
