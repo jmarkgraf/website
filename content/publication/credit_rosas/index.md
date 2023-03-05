@@ -1,24 +1,26 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Borrowing Welfare: Credit Access and Support for Redistribution."
+title: "Borrowing to Self-Insure? Credit Access and Support for Welfare."
 authors:
 - Jonas Markgraf
 - Guillermo Rosas
-date: 2023-03-01
+date: '2013'
+lastmod: 2023-10-07
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2023-10-11T13:42:18+02:00
+publishDate: 'forthcoming'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types:
+- '2'
 
 # Publication name and optional abbreviated publication name.
-publication: "Accepted at The Journal of Politics"
+publication: "The Journal of Politics (accepted)"
 publication_short: ""
 
 abstract: "The idea that bank credit serves as a private form of insurance against economic shocks has recently gained credence, but do voters see bank credit as an acceptable substitute for publicly-provided welfare? We conjecture that voters do see bank credit as a private form of insurance against economic risk, but we only expect voters with high incomes and those who face low risk from unemployment to willingly trade off credit access for welfare. Relying on observational data from the European Social Survey between 2002--10 we conclude that individuals with better credit access demand lower levels of redistribution, but confirm this effect is conditional on income and job loss risk. We then conduct a conjoint analysis in the United Kingdom that also points to a credit-access effect on preferences for redistribution. We find that high-income, low-risk voters support lower income taxation when credit is cheaply available."
