@@ -25,9 +25,8 @@ date_format = "Jan 2006"
   date_start = "2023-03-06"
   date_end = ""
   description = """
-  # Responsibilities include:
   Prime Video Content Analytics
-  * # Prime Video Content Analytics
+  
   """
 
 [[experience]]
