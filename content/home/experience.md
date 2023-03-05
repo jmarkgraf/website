@@ -25,12 +25,9 @@ date_format = "Jan 2006"
   date_start = "2023-03-06"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Measuring impact of changes to the pricing algorithm
-  * Improving demand elasticity estimates
-  * Enabling to steer investment decisions to create deep customer relationships
-  * Leading a team of three on interim basis (6 months)
+  # Responsibilities include:
+  Prime Video Content Analytics
+  * # Prime Video Content Analytics
   """
 
 [[experience]]
