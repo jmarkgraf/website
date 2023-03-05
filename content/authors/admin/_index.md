@@ -76,6 +76,6 @@ user_groups:
 - Visitors
 ---
 
-I work as an Economist II at Amazon London and and work on topics of experimentation and causal inference from observational data. Before I worked as a Senior Economist/Applied Scientist at Zalando in Berlin and, prior to this, I was a Postdoctoral Research Fellow the University of Oxford (Nuffield College). In 2018, I successfully defended my PhD dissertation at the Hertie School in Berlin and was a PreDoc at the Department of Political Science at Washington University in St. Louis (2017).
+I work as an Economist II at Amazon on the topics of experimentation and causal inference from observational data. Before, I was a Senior Economist/Applied Scientist at Zalando and, prior to this, I was a Postdoctoral Research Fellow the University of Oxford (Nuffield College). In 2018, I successfully defended my PhD dissertation at the Hertie School in Berlin.
 
 My academic research covers topics in the areas of Comparative Politics, Political Economy, and Political Methodology. It has been published in journals, including the  *Journal of Politics* and *Political Science Research & Methods*.
