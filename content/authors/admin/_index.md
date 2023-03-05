@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Economist
+role: Economist II
 
 # Organizations/Affiliations
 organizations:
-- name: Zalando SE
+- name: Amazon
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -23,7 +23,7 @@ bio: I work on topics of Experimentation and Causal Inference. My academic resea
 interests:
 - Comparative Politics
 - Political Economy
-- Political Methodology
+- Econometrics
 
 education:
   courses:
@@ -76,6 +76,6 @@ user_groups:
 - Visitors
 ---
 
-I am a Senior Economist at Zalando and work on topics of Experimentation and Causal Inference. Before I was a Postdoctoral Research Fellow in the WEALTHPOL Project at the University of Oxford and Fellow at Nuffield College. In 2018, I successfully defended my PhD dissertation at the Hertie School in Berlin and was a PreDoc at the Department of Political Science at Washington University in St. Louis (2017).
+I work as an Economist II at Amazon London and and work on topics of experimentation and causal inference from observational data. Before I worked as a Senior Economist/Applied Scientist at Zalando in Berlin and, prior to this, I was a Postdoctoral Research Fellow the University of Oxford (Nuffield College). In 2018, I successfully defended my PhD dissertation at the Hertie School in Berlin and was a PreDoc at the Department of Political Science at Washington University in St. Louis (2017).
 
 My academic research covers topics in the areas of Comparative Politics, Political Economy, and Political Methodology. It has been published in journals, including the  *Journal of Politics* and *Political Science Research & Methods*.

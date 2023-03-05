@@ -18,11 +18,11 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Senior Economist"
-  company = "Zalando SE"
+  title = "Economist II"
+  company = "Amazon"
   company_url = ""
-  location = "Berlin/Germany"
-  date_start = "2020-04-15"
+  location = "London/United Kingdom"
+  date_start = "2023-03-06"
   date_end = ""
   description = """
   Responsibilities include:
@@ -31,6 +31,22 @@ date_format = "Jan 2006"
   * Improving demand elasticity estimates
   * Enabling to steer investment decisions to create deep customer relationships
   * Leading a team of three on interim basis (6 months)
+  """
+
+[[experience]]
+  title = "Senior Economist/Applied Scientist"
+  company = "Zalando SE"
+  company_url = ""
+  location = "Berlin/Germany"
+  date_start = "2020-04-15"
+  date_end = "2023-02-01"
+  description = """
+  Responsibilities include:
+  
+  * Leading research on price-demand relationship (elasticity)
+  * Developing measurement framework for pricing algorithm
+  * Driving research to enable steering of large investment decisions
+  * Managed a team of three on interim basis (6 months)
   """
 
 [[experience]]
